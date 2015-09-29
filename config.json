@@ -1,0 +1,16 @@
+{
+  "paper": {
+    "width": 842,
+    "height": 595
+  },
+  "font": {
+    "face": "Droid Serif",
+    "size": 11
+  },
+  "name": {
+    "x": 515, "y": 209
+  },
+  "number": {
+    "x": 765, "y": 209
+  }
+}
